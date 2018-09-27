@@ -1,0 +1,65 @@
+commit 917f435378834042f44d88c819d2ad8fba80a381
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 12:22:14 2018 +0200
+
+    probdando aun
+
+commit 2135fb212167826583c1e42a487b157e404850b5
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 12:18:37 2018 +0200
+
+    prbando reset
+
+commit d2f93a316882e52935a3d34a3c2a4a91174f50de
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 11:49:45 2018 +0200
+
+    experimento color de fondo
+
+commit 7cb3ff34234df9e9134bbdca2fe65d49bbcb3228
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 11:42:05 2018 +0200
+
+    Experimento
+
+commit 396a92383cabf8ddd7a9bc72d6423f520f265058
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:32:55 2018 +0200
+
+    pA bORrAr
+
+commit 355d6b703aa64f6b1ad40a24139fdfdfc4b2e914
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:30:01 2018 +0200
+
+    agregando negrita
+
+commit e3a02cb832d35efbc403644f66d8d3432835c4d9
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:26:16 2018 +0200
+
+    Separando estilos
+
+commit bc3b02a91b2c75e29e8869deb5a0834bc8b1e04e
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:23:45 2018 +0200
+
+    Agregar parrafo
+
+commit d6a3fbea91488e17ea3a5bd9dcf13014c6db1982
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:18:20 2018 +0200
+
+    Aplicando background
+
+commit 408c191a843b90d0b7d7cae1419069e5810acd17
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:07:49 2018 +0200
+
+    Encabezado titulo
+
+commit dc9038e4f20a338c71d8208eea976b803c94e702
+Author: Brayhan <brayhan.bg@gmail.com>
+Date:   Thu Sep 27 10:01:30 2018 +0200
+
+    Creacion index.html
